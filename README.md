@@ -2,7 +2,7 @@
 
 A physical sorting machine that uses a Coral USB Accelerator and Teachable Machine to easily train a model to recognize and rapidly sort different objects.
 
-Find out more at: https://coral.withgoogle.com/projects/sorter/
+Find out more at: https://coral.ai/projects/teachable-sorter/
 
 ## FLIR Drivers
 The drivers for FLIR cameras are available here 
