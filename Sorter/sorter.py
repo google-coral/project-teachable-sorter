@@ -170,8 +170,8 @@ if __name__ == '__main__':
             if  not ret:
                 break
             cv2_im  = frame
-            pil_im = Image.fromArray(cv2_im)
-            pil_im.resize(224, 224)
+            pil_im = Image.fromarray(cv2_im)
+            pil_im.resize((224, 224))
             pil_im.transpose(Image.FLIP_LEFT_RIGHT)
             cv2.imshow('frame', cv2_im)
             on_new_frame(engine, mean, sliding_window, send_over_ws, cam_sockets)
