@@ -67,7 +67,7 @@ pygame==1.9.4.post1
 Pygments==2.3.1
 PyGObject==3.30.4
 pyinotify==0.9.6
-PyJWT==1.7.0
+PyJWT==2.4.0
 pylint==2.2.2
 pyOpenSSL==19.0.0
 pyparsing==2.4.1.1
