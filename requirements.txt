@@ -11,7 +11,7 @@ blinker==1.4
 blinkt==0.1.2
 buttonshim==0.0.2
 Cap1xxx==0.1.3
-certifi==2019.9.11
+certifi==2023.7.22
 chardet==3.0.4
 Click==7.0
 colorama==0.3.7
