@@ -64,7 +64,7 @@ Pillow==5.4.1
 psutil==5.5.1
 pycrypto==2.6.1
 pygame==1.9.4.post1
-Pygments==2.3.1
+Pygments==2.15.0
 PyGObject==3.30.4
 pyinotify==0.9.6
 PyJWT==1.7.0
