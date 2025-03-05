@@ -33,7 +33,7 @@ idna==2.6
 isort==4.3.4
 itsdangerous==0.24
 jedi==0.13.2
-Jinja2==2.10
+Jinja2==3.1.6
 keyring==17.1.1
 keyrings.alt==3.1.1
 kiwisolver==1.1.0
