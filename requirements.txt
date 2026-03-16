@@ -69,7 +69,7 @@ PyGObject==3.30.4
 pyinotify==0.9.6
 PyJWT==1.7.0
 pylint==2.2.2
-pyOpenSSL==19.0.0
+pyOpenSSL==26.0.0
 pyparsing==2.4.1.1
 pyperclip==1.6.4
 pyserial==3.4
